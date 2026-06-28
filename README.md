@@ -68,4 +68,3 @@ Replace `1` with any rank from `1` to `10`.
 * Bukkit / Paper API (Folia Supported)
 * HikariCP (Database Connection Pooling)
 * PlaceholderAPI
-```
